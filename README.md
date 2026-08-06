@@ -53,6 +53,7 @@
 | [0001-two-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ravishankartech/DSA-Practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
