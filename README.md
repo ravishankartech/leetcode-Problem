@@ -25,6 +25,7 @@
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/ravishankartech/DSA-Practice/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/ravishankartech/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -67,6 +68,7 @@
 | [0075-sort-colors](https://github.com/ravishankartech/DSA-Practice/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/ravishankartech/DSA-Practice/tree/master/0905-sort-array-by-parity) |
+| [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +104,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
