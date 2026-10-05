@@ -29,6 +29,7 @@
 | [0905-sort-array-by-parity](https://github.com/ravishankartech/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/ravishankartech/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -51,6 +52,7 @@
 | [0035-search-insert-position](https://github.com/ravishankartech/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Backtracking
