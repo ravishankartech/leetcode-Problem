@@ -7,7 +7,7 @@ class Solution {
             while(left<=right){
                 int temp = image[i][left];
                 image[i][left]= 1-image[i][right];
-                image[i][right]= 1-temp;
+                image[i][right]=1- temp;
                 left++;
                 right--;
             }
