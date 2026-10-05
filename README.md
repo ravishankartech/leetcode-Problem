@@ -30,6 +30,7 @@
 | [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/ravishankartech/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Backtracking
 |  |
 | ------- |
