@@ -28,6 +28,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/ravishankartech/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
+| [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 ## Backtracking
 |  |
 | ------- |
