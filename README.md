@@ -24,6 +24,7 @@
 | [0078-subsets](https://github.com/ravishankartech/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
@@ -40,6 +41,7 @@
 | [0018-4sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ravishankartech/DSA-Practice/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ravishankartech/DSA-Practice/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
