@@ -30,6 +30,7 @@
 | [0566-reshape-the-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/ravishankartech/DSA-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/ravishankartech/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
@@ -98,6 +99,7 @@
 | [0566-reshape-the-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/ravishankartech/DSA-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ravishankartech/DSA-Practice/tree/master/0066-plus-one) |
+| [0883-projection-area-of-3d-shapes](https://github.com/ravishankartech/DSA-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/ravishankartech/DSA-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
