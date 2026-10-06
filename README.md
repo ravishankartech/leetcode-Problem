@@ -26,6 +26,7 @@
 | [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/ravishankartech/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/ravishankartech/DSA-Practice/tree/master/0905-sort-array-by-parity) |
