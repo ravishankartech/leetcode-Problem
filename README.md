@@ -23,6 +23,7 @@
 | [0075-sort-colors](https://github.com/ravishankartech/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ravishankartech/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0766-toeplitz-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
@@ -69,6 +70,7 @@
 | [0001-two-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -77,6 +79,7 @@
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ravishankartech/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0905-sort-array-by-parity](https://github.com/ravishankartech/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +128,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/ravishankartech/DSA-Practice/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -134,4 +138,12 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0832-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
