@@ -26,6 +26,7 @@
 | [0075-sort-colors](https://github.com/ravishankartech/DSA-Practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ravishankartech/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ravishankartech/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ravishankartech/DSA-Practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ravishankartech/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ravishankartech/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
