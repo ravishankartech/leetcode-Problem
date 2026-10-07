@@ -15,6 +15,7 @@
 | [0039-combination-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/ravishankartech/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ravishankartech/DSA-Practice/tree/master/0056-merge-intervals) |
@@ -94,6 +95,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ravishankartech/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ravishankartech/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -130,6 +132,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ravishankartech/DSA-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ravishankartech/DSA-Practice/tree/master/0066-plus-one) |
 | [0883-projection-area-of-3d-shapes](https://github.com/ravishankartech/DSA-Practice/tree/master/0883-projection-area-of-3d-shapes) |
 ## Depth-First Search
