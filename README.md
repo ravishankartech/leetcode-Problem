@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ravishankartech/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/ravishankartech/DSA-Practice/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ravishankartech/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
@@ -126,6 +127,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ravishankartech/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ravishankartech/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/ravishankartech/DSA-Practice/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/ravishankartech/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/ravishankartech/DSA-Practice/tree/master/0883-projection-area-of-3d-shapes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ravishankartech/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
